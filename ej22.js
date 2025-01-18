@@ -1,0 +1,15 @@
+// Crear un documento con el nombre ej22.js
+// Declarar la variable salir y establecer el siguiente valor: true
+// Declarar la variable casado y establecer el siguiente valor: false
+// Declarar la variable usuarioRegistrado y establecer el siguiente valor: false
+// Declarar la variable meGustaJs y establecer el siguiente valor: true
+// Mostrar los valores de cada variable de la siguiente forma: console.log(nombreDeLaVariable, valor)
+let salir = true;
+let casado = false;
+let usuarioRegistrado = false;
+let meGustaJs = true;
+console.log(`
+    Salir ${salir}
+    Casado ${casado}
+    Usuario Registrado ${usuarioRegistrado}
+    Me gusta Js ${meGustaJs}`);
